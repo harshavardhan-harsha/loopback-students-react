@@ -62,7 +62,7 @@
     "loopback-connector-mongodb": "^4.2.0"
   },
   "devDependencies": {
-    "@loopback/build": "^1.7.0",
+    "@loopback/build": "^9.0.6",
     "@loopback/eslint-config": "^1.1.0",
     "@loopback/testlab": "^1.4.0",
     "@types/node": "^10.11.2",
